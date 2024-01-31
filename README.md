@@ -7,20 +7,20 @@ I am Matin 🧔
 
 I live in Iran 🏫. I am currently working as a Developer/ProjectManager at <a href="https://www.linkedin.com/company/sourena-game-studio/">SourenaGames</a>👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)]()
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)]()
 
-[![My Skills](https://skillicons.dev/icons?i=python,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite)]()
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)]()
 
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)]()
 
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)]()
 
-[![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md)]()
 
 
 ## Contact me!
-[![My Skills](https://skillicons.dev/icons?i=instagram)](dev,https://www.instagram.com/nothillscape/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nothillscape/)
