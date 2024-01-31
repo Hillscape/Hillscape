@@ -9,11 +9,9 @@ I live in Iran 🏫. I am currently working as a Developer/ProjectManager at <a 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=)c,cs,cpp](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
@@ -24,8 +22,5 @@ I live in Iran 🏫. I am currently working as a Developer/ProjectManager at <a 
 [![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 
-
-
-## 🤔
-- 💬 I am open to developing proposals
-- 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/matin._.daneshparvar/)
+## Contact me!
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev,https://www.instagram.com/nothillscape/)
