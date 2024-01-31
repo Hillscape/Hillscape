@@ -6,7 +6,7 @@ I'm from Iran,Tehran
 
 # Skills 💻 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,figma,c,cpp,cs,python,sqlite,django,md,git,linux,arduino,ps,pr,ae,wordpress&perline=5"() />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,figma,c,cpp,cs,python,sqlite,django,md,linux,ps,pr,ae,wordpress&perline=5"() />
 </p>
 
 ## Contact me!
