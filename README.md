@@ -23,4 +23,4 @@ I live in Iran 🏫. I am currently working as a Developer/ProjectManager at <a 
 
 
 ## Contact me!
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev,https://www.instagram.com/nothillscape/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](dev,https://www.instagram.com/nothillscape/)
