@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width='200'/>
 
-my name in Matin Ghaznavi, im 15 years old programmer that loves coding 
+My name in Matin Ghaznavi, im 15 years old programmer that loves coding 
 
 I'm from Iran,Tehran
 
