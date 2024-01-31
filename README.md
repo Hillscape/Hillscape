@@ -13,5 +13,5 @@ I'm from Iran,Tehran
 
 ## Contact me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" height="25" />
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nothillscape/)
-[![Discord](https://skillicons.dev/icons?i=discord)]((https://discord.com/users/1202253073368485940)/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1202253073368485940)/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/nothillscape/)
