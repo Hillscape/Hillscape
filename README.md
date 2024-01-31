@@ -6,7 +6,7 @@ I'm from Iran,Tehran
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"width="150" height="100"() />
 </p>
 
-# Skills <img src="https://user-images.githubusercontent.com/74038190/" />
+# Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,figma,c,cpp,cs,python,sqlite,django,md,linux,unity,ps,pr,ae,wordpress&perline=5"() />
 </p>
