@@ -11,5 +11,5 @@ I'm from Iran,Tehran
 
 ## Contact me!
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nothillscape/)
-[![Discord](https://skillicons.dev/icons?i=discord)]((https://discord.com/channels/@me/1202253073368485940)/)
+[![Discord](https://skillicons.dev/icons?i=discord)]((https://discord.com/channels/1202253073368485940)/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/nothillscape/)
