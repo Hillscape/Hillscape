@@ -8,7 +8,7 @@ I'm from Iran,Tehran
 
 # Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,git,c,cpp,cs,python,sqlite,django,md,linux,unity,ps,pr,ae,wordpress&perline=5"() />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,c,cpp,cs,git,python,sqlite,django,md,linux,unity,ps,pr,ae,wordpress&perline=5"() />
 </p>
 
 ## Contact me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" height="25" />
