@@ -8,10 +8,11 @@ I'm from Iran,Tehran
 
 # Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,c,cpp,cs,git,python,sqlite,django,md,linux,unity,ps,pr,ae,wordpress&perline=5"() />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vue,c,cpp,cs,git,python,postgres,django,md,linux,unity,ps,pr,ae,ai,wordpress,bot,arduino,redis,s&perline=7"() />
 </p>
 
 ## Contact me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" height="25" />
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nothillscape/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/683691403188109362)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/nothillscape/)
+[![Gmain](https://skillicons.dev/icons?i=gmail)](mailto:ghoolmadbf@gmail.com)
